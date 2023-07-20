@@ -84,12 +84,3 @@ Usage
 
 See example of usage in the examples folder.
 
-Author
-------
-
-Adafruit invests time and resources providing this open source code, please
-support Adafruit and open-source hardware by purchasing products from Adafruit!
-
-Written by Tony DiCola for Adafruit Industries.
-
-MIT license, all text above must be included in any redistribution
