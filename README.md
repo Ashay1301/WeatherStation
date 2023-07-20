@@ -77,12 +77,7 @@ cd Adafruit_Python_DHT
 sudo python3 setup.py install
 ```
 
-You may also git clone the repository if you want to test an unreleased
-version:
 
-```sh
-git clone https://github.com/adafruit/Adafruit_Python_DHT.git
-```
 
 Usage
 -----
